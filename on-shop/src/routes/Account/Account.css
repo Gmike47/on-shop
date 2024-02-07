@@ -1,0 +1,9 @@
+.div {
+    display: flex;
+    background-color: blue;
+}
+
+p {
+    font-size: 40;
+    color: black;
+}
