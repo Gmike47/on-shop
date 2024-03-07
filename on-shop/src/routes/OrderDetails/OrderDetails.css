@@ -1,0 +1,9 @@
+.order-details-container {
+    display: flex;
+    background-color: blue;
+}
+
+.order-details {
+    font-size: 40;
+    color: black;
+}
